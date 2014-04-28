@@ -1,4 +1,3 @@
-[STILL UNDER DEVELOPMENT, please return in a couple of hours]
 
 ### Introduction
 
